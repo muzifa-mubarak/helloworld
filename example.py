@@ -1,0 +1,3 @@
+a=input("enter 1:")
+b=input("enter 2:")
+print(a,b)
